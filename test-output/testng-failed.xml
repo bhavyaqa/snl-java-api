@@ -6,7 +6,7 @@
       <class name="NewTest">
         <methods>
           <include name="create_board_object"/>
-          <include name="registeration_of_a_user"/>
+          <include name="roll_dice_with_random_uuid"/>
         </methods>
       </class> <!-- NewTest -->
     </classes>
